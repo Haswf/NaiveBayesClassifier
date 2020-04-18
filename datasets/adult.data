@@ -158,7 +158,7 @@
 71,Self-emp-not-inc,494223,Some-college,10,Separated,Sales,Unmarried,Black,Male,0,1816,2,United-States,<=50K
 29,Private,191535,HS-grad,9,Divorced,Craft-repair,Not-in-family,White,Male,0,0,60,United-States,<=50K
 42,Private,228456,Bachelors,13,Separated,Other-service,Other-relative,Black,Male,0,0,50,United-States,<=50K
-68,?,38317,1st-4th,2,Divorced,?,Not-in-family,White,Female,0,0,20,United-States,<=50K
+68,?,38317,1st-4th,2,Divocred,?,Not-in-family,White,Female,0,0,20,United-States,<=50K
 25,Private,252752,HS-grad,9,Never-married,Other-service,Unmarried,White,Female,0,0,40,United-States,<=50K
 44,Self-emp-inc,78374,Masters,14,Divorced,Exec-managerial,Unmarried,Asian-Pac-Islander,Female,0,0,40,United-States,<=50K
 28,Private,88419,HS-grad,9,Never-married,Exec-managerial,Not-in-family,Asian-Pac-Islander,Female,0,0,40,England,<=50K
